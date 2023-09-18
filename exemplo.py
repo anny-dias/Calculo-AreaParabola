@@ -7,7 +7,7 @@ def funcao(x):
 
   
 x = 0 
-delta = 0.01
+delta = 0.025
 Area = 0
 
 while x < 25:
@@ -21,3 +21,7 @@ print(Area)
 
 
     
+
+
+"""Calculando pi"""
+
